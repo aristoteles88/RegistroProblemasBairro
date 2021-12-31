@@ -57,6 +57,7 @@
 		BD2F4384277A8CF300FBA1E6 /* ProblemFormViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProblemFormViewController.swift; sourceTree = "<group>"; };
 		BDF945BA277F7DC6005F6400 /* ProblemsRegister.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ProblemsRegister.xcdatamodel; sourceTree = "<group>"; };
 		BDF945BC277F94AA005F6400 /* UIViewController+Context.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Context.swift"; sourceTree = "<group>"; };
+		BDF945BE277FA4B3005F6400 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		BDFDBCAA277F7ACF00B63030 /* ProblemTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProblemTableViewController.swift; sourceTree = "<group>"; };
 		BDFDBCAC277F7AE900B63030 /* ProblemTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProblemTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -89,6 +90,7 @@
 		BD155B81277A3F6200465169 = {
 			isa = PBXGroup;
 			children = (
+				BDF945BE277FA4B3005F6400 /* Readme.md */,
 				BD155B8C277A3F6200465169 /* Projeto1 */,
 				BD155BA3277A3F6600465169 /* Projeto1Tests */,
 				BD155BAD277A3F6700465169 /* Projeto1UITests */,
